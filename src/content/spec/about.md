@@ -1,7 +1,17 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **Listening** 。
 
+做东西很慢，很想一直做下去，但总是发呆疑惑，写博客是想记录自己学习的过程
+
+Firefly的博客主题很大很厉害，真心佩服这些开发者，做的很好看，性能响应也快
+
+
+### 项目和工作
+如果有什么有趣的想法和创意欢迎联系我，如果有合适的工作也欢迎联系我，有偿谢谢你的推荐
+
+*QQ邮箱：2971017192@qq.com  
+*微信号：hilangtime144169
 ## 🛠️ 关于本站
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
