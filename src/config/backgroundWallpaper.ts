@@ -113,12 +113,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "Email",
 					icon: "fa7-solid:envelope",
-					url: "2971017192@qq.com",
+					url: "mailto:2971017192@qq.com",
 				},
 				{
 					name: "Sponsor",
 					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
+					url: "https://listening2.dpdns.org/sponsor/",
 				},
 				{
 					name: "RSS",
