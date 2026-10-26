@@ -35,7 +35,7 @@ export type DisplaySettingsConfig = {
 	wallpaperModeSwitchable: boolean;
 
 	// 全屏壁纸布局切换开关（classic / hero）
-	fullscreenLayoutSwitchable: boolean;
+    fullscreenLayoutSwitchable: boolean;
 
 	// 水波纹动画开关
 	wavesSwitchable: boolean;
