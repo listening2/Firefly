@@ -52,7 +52,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"最近很想你，可以有空一起散散步吗",
+		"最近很想你，有空一起散散步吗",
 
 	// 站点关键词
 	keywords: [
