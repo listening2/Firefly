@@ -11,7 +11,7 @@ Firefly的博客主题很大很厉害，真心佩服这些开发者，做的很�
 如果有什么有趣的想法和创意欢迎联系我，如果有合适的工作也欢迎联系我，有偿谢谢你的推荐
 
 *QQ邮箱：2971017192@qq.com  
-*微信号：hilangtime144169
+*微信号：hilongtime144169
 ## 🛠️ 关于本站
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
